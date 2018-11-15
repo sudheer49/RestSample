@@ -1,0 +1,3 @@
+com\example\RestDemo\RestDemoApplication.class
+com\example\beans\Welcome.class
+com\example\controller\WelcomeController.class
